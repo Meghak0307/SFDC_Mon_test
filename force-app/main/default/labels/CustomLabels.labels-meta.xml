@@ -7,4 +7,11 @@
         <shortDescription>Test2Label</shortDescription>
         <value>this is another label for proj4</value>
     </labels>
+    <labels>
+        <fullName>MondayOne</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MondayOne</shortDescription>
+        <value>This label is created on Monday</value>
+    </labels>
 </CustomLabels>
